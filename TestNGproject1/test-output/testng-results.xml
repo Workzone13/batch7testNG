@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-19T11:20:19 PDT" name="regression" finished-at="2023-08-19T11:20:59 PDT" duration-ms="40540">
+    <groups>
+    </groups>
+    <test started-at="2023-08-19T11:20:19 PDT" name="fbhome_restart browser" finished-at="2023-08-19T11:20:59 PDT" duration-ms="40540">
+      <class name="batch7TestNG.TestNGproject1.Aug19dataprovider">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:batch7TestNG.TestNGproject1.Aug19dataprovider@2e6a8155]" started-at="2023-08-19T11:20:19 PDT" name="beforeTest" finished-at="2023-08-19T11:20:30 PDT" duration-ms="11462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:batch7TestNG.TestNGproject1.Aug19dataprovider@2e6a8155]" started-at="2023-08-19T11:20:30 PDT" name="f" data-provider="dp" finished-at="2023-08-19T11:20:39 PDT" duration-ms="9258" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:batch7TestNG.TestNGproject1.Aug19dataprovider@2e6a8155]" started-at="2023-08-19T11:20:39 PDT" name="f" data-provider="dp" finished-at="2023-08-19T11:20:49 PDT" duration-ms="9206" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bbbbb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:batch7TestNG.TestNGproject1.Aug19dataprovider@2e6a8155]" started-at="2023-08-19T11:20:49 PDT" name="f" data-provider="dp" finished-at="2023-08-19T11:20:58 PDT" duration-ms="9198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@live.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cccc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:batch7TestNG.TestNGproject1.Aug19dataprovider@2e6a8155]" started-at="2023-08-19T11:20:58 PDT" name="afterTest" finished-at="2023-08-19T11:20:59 PDT" duration-ms="1364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- batch7TestNG.TestNGproject1.Aug19dataprovider -->
+    </test> <!-- fbhome_restart browser -->
+  </suite> <!-- regression -->
+</testng-results>
